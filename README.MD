@@ -2,7 +2,7 @@
 
 ## Description
 
-This example of MapReduce job is direct port of [this tutorial](https://hadoop.apache.org/docs/stable/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html) written in Scala
+This example of MapReduce job is direct port of [this tutorial](https://hadoop.apache.org/docs/stable/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html) written in Scala with minimum deps.
 
 ## How to build
 

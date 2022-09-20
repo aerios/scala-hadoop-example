@@ -1,6 +1,6 @@
 package harippe.hadoop.example.directOps.readWrite
 
-import id.nolimit.hadoop.example.directOps.Connection
+import harippe.hadoop.example.directOps.Connection
 import org.apache.hadoop.fs.{FSDataOutputStream, Path}
 
 object CreateFile {

@@ -1,6 +1,6 @@
 package harippe.hadoop.example.directOps.metadata
 
-import id.nolimit.hadoop.example.directOps.Connection
+import harippe.hadoop.example.directOps.Connection
 import org.apache.hadoop.fs.Path
 
 object RenameFile {
