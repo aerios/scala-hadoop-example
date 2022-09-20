@@ -1,4 +1,4 @@
-package id.nolimit.hadoop.example.directOps.metadata
+package harippe.hadoop.example.directOps.metadata
 
 import id.nolimit.hadoop.example.directOps.Connection
 import org.apache.hadoop.fs.Path

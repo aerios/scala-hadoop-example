@@ -1,4 +1,4 @@
-package id.nolimit.hadoop.example.directOps.readWrite
+package harippe.hadoop.example.directOps.readWrite
 
 import id.nolimit.hadoop.example.directOps.Connection
 import org.apache.hadoop.fs.Path

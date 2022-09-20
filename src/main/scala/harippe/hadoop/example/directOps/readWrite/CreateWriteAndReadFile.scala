@@ -1,4 +1,4 @@
-package id.nolimit.hadoop.example.directOps.readWrite
+package harippe.hadoop.example.directOps.readWrite
 
 import java.io.{BufferedReader, InputStreamReader}
 

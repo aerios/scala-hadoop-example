@@ -1,4 +1,4 @@
-package id.nolimit.hadoop.example.directOps
+package harippe.hadoop.example.directOps
 
 import org.apache.hadoop.conf.Configuration
 import org.apache.hadoop.fs.{FileSystem, Hdfs}

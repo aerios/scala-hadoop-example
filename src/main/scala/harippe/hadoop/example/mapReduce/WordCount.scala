@@ -1,4 +1,4 @@
-package id.nolimit.hadoop.example.mapReduce
+package harippe.hadoop.example.mapReduce
 
 import java.lang
 import java.util.StringTokenizer
